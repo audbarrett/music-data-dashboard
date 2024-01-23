@@ -1,7 +1,5 @@
 # Spotify Insights Dashboard
 
-## Audrey B., Carter J., Lindsey J., Mita J., Omar K., Anita K.
-
 ### Overview
 Welcome to our Spotify Insights Dashboard! This user-friendly dashboard is designed to provide a seamless experience for users interested in exploring the dynamic world of music. With a simple date selection feature, viewers can delve into comprehensive insights about the Top 50 Spotify songs across 70+ countries. The dashboard offers a visually rich interface displaying the geographical distribution of listeners on an interactive map, along with detailed analytics on top genres and danceability insights for the selected date. Whether you're a music enthusiast, data analyst, or simply curious about global music preferences, our dashboard aims to deliver an engaging and informative experience. Dive in and explore the captivating mosaic of Spotify's top tracks worldwide!
 
@@ -27,20 +25,5 @@ Developing this dashboard required minimal focus on privacy and transparency as,
 - [Spotify 1 Million Tracks](https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks)  
   This dataset was extracted from the Spotify platform using the Python library "Spotipy", which allows users to access music data provided via APIs. The dataset collected includes about 1 Million tracks with 19 features between 2000 and 2023. Also, there is a total of 61,445 unique artists and 82 genres in the data. — We used the genre information within this dataset to supplement the listed top songs in our primary dataset.
 
-### Individual Contributions
-- Project Proposal — Audrey, Lindsey
-- Data Cleaning — Carter, Mita
-- Database Creation — Omar, Mita, Anita
-- Flask App Creation — Mita, Anita
-- Dropdown menu — Mita, Anita
-- World Map Visualization — Carter, Mita
-- PieChart Visualization — Lindsey
-- Danceability "Betty" Visualization — Mita, Anita
-- Danceabilty Bubble Chart Visualization — Mita, Anita
-- Front-end Code — Audrey
-- Project Documentation, including README file — Lindsey
-- Presentation Slides — Audrey
-- Presentation Q&A — Omar
-
 ### Additional Code References
-Throughout the project development, we leveraged Google, ChatGPT, and Stack Overflow as valuable resources for debugging and problem-solving in addition to insights provided by course TA’s (Shay, Alex, and Asim).
+Throughout the project development, we leveraged Google, ChatGPT, and Stack Overflow as valuable resources for debugging and problem-solving in addition to insights provided by course TAs.
